@@ -147,6 +147,9 @@
     <ClInclude Include="Solution3.h" />
     <ClInclude Include="Solution4.h" />
     <ClInclude Include="Solution5.h" />
+    <ClInclude Include="Solution6.h" />
+    <ClInclude Include="Solution7.h" />
+    <ClInclude Include="Solution8.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

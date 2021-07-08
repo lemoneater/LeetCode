@@ -1,12 +1,7 @@
-#include"Solution5.h"
-
-void test(int& a)
-{
-	a = 1;
-}
+#include"Solution7.h"
 
 int main()
 {
-	Solution5 s;
+	Solution7 s;
 	s.test();
 }

@@ -35,5 +35,14 @@
     <ClInclude Include="Solution5.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Solution6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution7.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

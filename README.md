@@ -1,2 +1,3 @@
 # LeetCode
-记录leetcode题目以及代码
+Platforms: Windows10
+Compilers: MSVC 64-bit compiler for x86
